@@ -4,6 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Make School!
+- 🔭 &nbsp; I’m currently working on my Destiny passion project.
+- 😄 &nbsp; Pronouns: He/Him
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
