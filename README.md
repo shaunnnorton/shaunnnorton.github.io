@@ -43,7 +43,7 @@
 <p align="center">
 <a href="https://www.snorton.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.snorton.dev-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/shaun-norton-2731b8162/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shaun%20Norton-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:shaunnorton87@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shaunnorton@snorton.dev-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:shaunnorton@snorton.dev"><img alt="Email" src="https://img.shields.io/badge/Email-shaunnorton@snorton.dev-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [shaunnnorton](https://github.com/shaunnnorton)
